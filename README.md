@@ -1,2 +1,2 @@
-# Data-Science-and-Machine-Learning-
+# Data Science
 projects from university
