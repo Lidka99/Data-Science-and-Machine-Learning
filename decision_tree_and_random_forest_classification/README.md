@@ -18,7 +18,7 @@ Calculation of basic evaluation metrics, such as:
 -specificity.
 
 
-Determination of the ROC curve (ang. Receiver Operating Characteristic).
+Determination of the ROC curve (Receiver Operating Characteristic).
 
 
 Determination of the learning curve.
