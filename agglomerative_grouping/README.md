@@ -1,4 +1,4 @@
-#Agglomerative grouping
+# Agglomerative grouping
 
 Data clustering using an agglomerative algorithm.
 
