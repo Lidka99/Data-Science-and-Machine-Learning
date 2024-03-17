@@ -1,6 +1,4 @@
-Data classification using three datasets of different characteristics.
-
-Performed using the following classification methods: decision trees and random forests.
+# Data classification using decision trees and random forests.
 
 Determination of values in the confusion matrix.
 
